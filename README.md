@@ -1,5 +1,5 @@
 # Bundler for typescript
-Boiler plate to bundle a typescript application using module using webpack
+Boiler plate to bundle a typescript application 
 
 
 ## Initalize a project
